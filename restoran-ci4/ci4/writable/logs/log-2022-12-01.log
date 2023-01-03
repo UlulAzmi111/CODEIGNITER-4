@@ -1,0 +1,80 @@
+CRITICAL - 2022-12-01 01:17:15 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(1598): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(709): CodeIgniter\BaseModel->transformDataToArray(false, 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert(false, true)
+ 4 APPPATH\Controllers\Admin\Kategori.php(49): CodeIgniter\Model->insert(false)
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin\Kategori->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Kategori))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 01:18:27 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(1598): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(709): CodeIgniter\BaseModel->transformDataToArray(false, 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert(false, true)
+ 4 APPPATH\Controllers\Admin\Kategori.php(49): CodeIgniter\Model->insert(false)
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin\Kategori->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Kategori))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 01:21:18 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(1598): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(709): CodeIgniter\BaseModel->transformDataToArray(false, 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert(false, true)
+ 4 APPPATH\Controllers\Admin\Kategori.php(49): CodeIgniter\Model->insert(false)
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin\Kategori->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Kategori))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 01:23:32 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(1598): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(709): CodeIgniter\BaseModel->transformDataToArray(false, 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert(false, true)
+ 4 APPPATH\Controllers\Admin\Kategori.php(49): CodeIgniter\Model->insert(false)
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin\Kategori->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Kategori))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 01:26:31 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(1598): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(709): CodeIgniter\BaseModel->transformDataToArray(false, 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert(false, true)
+ 4 APPPATH\Controllers\Admin\Kategori.php(49): CodeIgniter\Model->insert(false)
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin\Kategori->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Kategori))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 01:28:19 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(1598): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(709): CodeIgniter\BaseModel->transformDataToArray(false, 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert(false, true)
+ 4 APPPATH\Controllers\Admin\Kategori.php(49): CodeIgniter\Model->insert(false)
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin\Kategori->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Kategori))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 01:33:10 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(1598): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(709): CodeIgniter\BaseModel->transformDataToArray(false, 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert(false, true)
+ 4 APPPATH\Controllers\Admin\Kategori.php(49): CodeIgniter\Model->insert(false)
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin\Kategori->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Kategori))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-01 01:36:59 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(1598): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(709): CodeIgniter\BaseModel->transformDataToArray(false, 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert(false, true)
+ 4 APPPATH\Controllers\Admin\Kategori.php(49): CodeIgniter\Model->insert(false)
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin\Kategori->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Kategori))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
